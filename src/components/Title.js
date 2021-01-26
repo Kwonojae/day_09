@@ -9,5 +9,43 @@ const Title = () => {
     );
 };
 
-export default React.memo(Title);//값을 기억해두는 방법 
+export default React.memo(Title);//값을 기억해두는 방법 값이 변경되었을때 여러번 불러올 필요없어서 변경되었을때만 불러옴
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 // export default Title;// 여러번 불러온다 
